@@ -50,14 +50,6 @@ body {
     outline: 0;
 }
 
-.btn:active {
-    transform: scle(0.98);
-}
-
-.text {
-    margin-top: 30px;
-}
-
 .form-control {
     position: relative;
     margin: 20px 0 40px;
